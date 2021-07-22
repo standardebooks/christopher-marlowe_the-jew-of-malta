@@ -42,7 +42,8 @@
 		<meta property="group-position" refines="#collection-1">12</meta>
 		<dc:description id="description">After losing all his possessions a Jewish merchant is determined to get his revenge on Malta.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/christopher-marlowe"&gt;Christopher Marlowe&lt;/a&gt; wrote the &lt;i&gt;Jew of Malta&lt;/i&gt; at the height of his career and it remained popular until England’s theatres were closed in 1642. Many have questioned it for its portrayal of Elizabethan anti-semitism, but others argue that Marlowe criticizes Judaism, Islam, and Christianity equally for their mutual hypocrisy. This accusation of anti-semitism continues for &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeares’&lt;/a&gt; 1596 &lt;i&gt;The Merchant of Venice&lt;/i&gt; which some consider a direct successor to Marlowe’s work.&lt;/p&gt;
+			&lt;p&gt;The play focuses on a wealthy Jewish merchant named Barabas on the island of Malta. When the island’s governor strips Barabas of all his wealth to pay off the invading Turks, he plots and schemes to get his revenge, killing all who get in his way and ultimately pitting Spanish Christians against Ottoman Muslims in attempt to punish them all.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/901</dc:source>
