@@ -48,7 +48,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/901</dc:source>
 		<dc:source>https://archive.org/details/christophermarl00elligoog</dc:source>
-		<meta property="se:production-notes">This version was based on Gutenberg's transcription of Dyce but updated to reflect Ellis’ later edition including the new endnotes. Ellis omitted the prologue so it was added back in with Dyce's endnotes. Stage directions were moved onto their own lines unless they were meant to be inline with dialogue.</meta>
+		<meta property="se:production-notes">This version was based on Gutenberg's transcription of Dyce but updated to reflect Ellis’ later edition including the new endnotes. Stage directions were moved onto their own lines unless they were meant to be inline with dialogue.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Jew_of_Malta</meta>
