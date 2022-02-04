@@ -58,7 +58,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78088956</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Eduard von Grützner</dc:contributor>
-		<meta property="file-as" refines="#artist">von Grützner, Eduard </meta>
+		<meta property="file-as" refines="#artist">von Grützner, Eduard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Eduard_von_Gr%C3%BCtzner</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr94025509</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
