@@ -40,7 +40,7 @@
 		<meta id="collection-1" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">12</meta>
-		<dc:abstract>After losing all of his possessions, a Jewish merchant is determined to get his revenge on Malta.</dc:abstract>
+		<meta property="schema:abstract">After losing all of his possessions, a Jewish merchant is determined to get his revenge on Malta.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/christopher-marlowe"&gt;Christopher Marlowe&lt;/a&gt; wrote &lt;i&gt;The Jew of Malta&lt;/i&gt; at the height of his career, and it remained popular until England’s theaters were closed by Parliament in 1642. Many have critiqued it for its portrayal of Elizabethan antisemitism, but others argue that Marlowe criticizes Judaism, Islam, and Christianity equally for their hypocrisy. This antisemitism debate continues on to &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; &lt;i&gt;The Merchant of Venice&lt;/i&gt;, which was written about ten years later and which some consider to be directly influenced by &lt;i&gt;The Jew of Malta&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;The play focuses on a wealthy Jewish merchant named Barabas who lives on the island of Malta. When the island’s governor strips Barabas of all his wealth in order to pay off the invading Turks, Barabas plots and schemes to get his revenge, killing all who get in his way and ultimately pitting Spanish Christians against Ottoman Muslims in an attempt to punish them all.&lt;/p&gt;
